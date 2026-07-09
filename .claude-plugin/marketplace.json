@@ -1,0 +1,20 @@
+{
+  "name": "kuno-commands",
+  "owner": {
+    "name": "Papillon6814"
+  },
+  "description": "Personal Claude Code slash commands by Papillon6814",
+  "plugins": [
+    {
+      "name": "japanese-english",
+      "source": "./plugins/japanese-english",
+      "description": "Convert Japanese (or a rough English draft) into simple, correct English for Slack/chat with overseas teammates",
+      "version": "1.0.0",
+      "author": {
+        "name": "Papillon6814"
+      },
+      "license": "MIT",
+      "keywords": ["japanese", "english", "translation", "slack", "writing"]
+    }
+  ]
+}
